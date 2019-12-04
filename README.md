@@ -16,6 +16,8 @@ Deployement text. This is a simple web project.
 
 ## How To Contribute
 
+Please fork this repository and then issue Pull Request for review.
+
 ## Copyright
 
 --2019 Git.Training
