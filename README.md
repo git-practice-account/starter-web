@@ -1,6 +1,6 @@
 # Starter Web Project
 
-This is a simple project for showing how to use Github together. Adding some more text, then adding more changes from myfeature branch too.
+This is a simple project for showing how to use Github together. Adding some more text, then adding more changes from myfeature branch too .
 
 
 ## Introduction
